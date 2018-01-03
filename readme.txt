@@ -1,2 +1,5 @@
-dkdslnvhe
-你好 我好
+<<<<<<< HEAD
+lavsjvksvnsal;vnlviiii
+=======
+lavsjvksvnsal;vnlviiii
+>>>>>>> feature1
